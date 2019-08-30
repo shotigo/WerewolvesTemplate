@@ -1,0 +1,14 @@
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\bin\Debug\netcoreapp2.2\TropicalTrooperTemplate.deps.json
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\bin\Debug\netcoreapp2.2\TropicalTrooperTemplate.runtimeconfig.json
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\bin\Debug\netcoreapp2.2\TropicalTrooperTemplate.runtimeconfig.dev.json
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\bin\Debug\netcoreapp2.2\TropicalTrooperTemplate.dll
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\bin\Debug\netcoreapp2.2\TropicalTrooperTemplate.pdb
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.csprojAssemblyReference.cache
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.csproj.CoreCompileInputs.cache
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.RazorAssemblyInfo.cache
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.RazorAssemblyInfo.cs
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.AssemblyInfoInputs.cache
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.AssemblyInfo.cs
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.RazorTargetAssemblyInfo.cache
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.dll
+C:\Users\78251\Downloads\serilog-aspnetcore-dev\TropicalTrooperTemplate\obj\Debug\netcoreapp2.2\TropicalTrooperTemplate.pdb
