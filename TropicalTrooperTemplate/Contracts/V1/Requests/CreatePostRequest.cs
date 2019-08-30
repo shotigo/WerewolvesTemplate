@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TropicalTrooperTemplate.Domain
+namespace TropicalTrooperTemplate.Contracts.V1.Requests
 {
-    public class Post
+    public class CreatePostRequest
     {
         public string Id { get; set; }
-
-        public string Name { get; set; }
     }
 }

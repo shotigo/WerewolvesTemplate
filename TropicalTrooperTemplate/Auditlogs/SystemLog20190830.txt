@@ -99,3 +99,76 @@
 2019-08-30 17:07:55.171 +08:00 [INF] Executed action TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate) in 6.6342ms
 2019-08-30 17:07:55.172 +08:00 [INF] Executed endpoint 'TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate)'
 2019-08-30 17:07:55.172 +08:00 [INF] Request finished in 12.8455ms 200 application/json; charset=utf-8
+2019-08-30 18:31:24.938 +08:00 [INF] Starting web host
+2019-08-30 18:31:54.867 +08:00 [INF] User profile is available. Using 'C:\Users\78251\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-30 18:31:59.733 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-08-30 18:32:00.203 +08:00 [INF] Request finished in 477.8613ms 404 
+2019-08-30 18:32:03.226 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html  
+2019-08-30 18:32:03.571 +08:00 [INF] Request finished in 344.8321ms 200 text/html
+2019-08-30 18:32:03.626 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css  
+2019-08-30 18:32:03.664 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+2019-08-30 18:32:03.670 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+2019-08-30 18:32:03.723 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2019-08-30 18:32:03.734 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2019-08-30 18:32:03.739 +08:00 [INF] Request finished in 113.1867ms 200 text/css
+2019-08-30 18:32:03.740 +08:00 [INF] Request finished in 70.237ms 200 application/javascript
+2019-08-30 18:32:03.814 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2019-08-30 18:32:03.814 +08:00 [INF] Request finished in 150.8552ms 200 application/javascript
+2019-08-30 18:32:04.389 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json  
+2019-08-30 18:32:04.563 +08:00 [INF] Request finished in 173.7943ms 200 application/json;charset=utf-8
+2019-08-30 18:35:49.523 +08:00 [INF] Starting web host
+2019-08-30 18:35:52.483 +08:00 [INF] User profile is available. Using 'C:\Users\78251\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-30 18:35:54.653 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-08-30 18:35:54.903 +08:00 [INF] Request finished in 253.7515ms 404 
+2019-08-30 18:50:09.378 +08:00 [INF] Starting web host
+2019-08-30 18:50:13.544 +08:00 [INF] User profile is available. Using 'C:\Users\78251\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-30 18:50:16.095 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-08-30 18:50:16.331 +08:00 [INF] Request finished in 235.3909ms 404 
+2019-08-30 18:50:22.201 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html  
+2019-08-30 18:50:22.411 +08:00 [INF] Request finished in 210.7813ms 200 text/html
+2019-08-30 18:50:22.453 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css  
+2019-08-30 18:50:22.482 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+2019-08-30 18:50:22.482 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+2019-08-30 18:50:22.555 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2019-08-30 18:50:22.555 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2019-08-30 18:50:22.555 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2019-08-30 18:50:22.562 +08:00 [INF] Request finished in 80.5246ms 200 application/javascript
+2019-08-30 18:50:22.562 +08:00 [INF] Request finished in 109.3722ms 200 text/css
+2019-08-30 18:50:22.563 +08:00 [INF] Request finished in 80.9956ms 200 application/javascript
+2019-08-30 18:50:22.824 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json  
+2019-08-30 18:50:22.991 +08:00 [INF] Request finished in 167.1822ms 200 application/json;charset=utf-8
+2019-08-30 18:50:50.767 +08:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/v1/posts application/json-patch+json 20
+2019-08-30 18:50:50.779 +08:00 [INF] Executing endpoint 'TropicalTrooperTemplate.Controllers.V1.PostsController.Create (TropicalTrooperTemplate)'
+2019-08-30 18:50:50.854 +08:00 [INF] Route matched with {action = "Create", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(TropicalTrooperTemplate.Domain.Post) on controller TropicalTrooperTemplate.Controllers.V1.PostsController (TropicalTrooperTemplate).
+2019-08-30 18:50:50.901 +08:00 [INF] Executing action method TropicalTrooperTemplate.Controllers.V1.PostsController.Create (TropicalTrooperTemplate) - Validation state: "Valid"
+2019-08-30 18:50:50.911 +08:00 [INF] Executed action method TropicalTrooperTemplate.Controllers.V1.PostsController.Create (TropicalTrooperTemplate), returned result Microsoft.AspNetCore.Mvc.CreatedResult in 0.6957ms.
+2019-08-30 18:50:50.921 +08:00 [INF] Executing ObjectResult, writing value of type 'TropicalTrooperTemplate.Domain.Post'.
+2019-08-30 18:50:50.934 +08:00 [INF] Executed action TropicalTrooperTemplate.Controllers.V1.PostsController.Create (TropicalTrooperTemplate) in 76.468ms
+2019-08-30 18:50:50.934 +08:00 [INF] Executed endpoint 'TropicalTrooperTemplate.Controllers.V1.PostsController.Create (TropicalTrooperTemplate)'
+2019-08-30 18:50:50.934 +08:00 [INF] Request finished in 167.2347ms 201 application/json; charset=utf-8
+2019-08-30 19:01:00.232 +08:00 [INF] Starting web host
+2019-08-30 19:01:01.937 +08:00 [INF] User profile is available. Using 'C:\Users\78251\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-30 19:01:03.695 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/  
+2019-08-30 19:01:03.884 +08:00 [INF] Request finished in 193.2835ms 404 
+2019-08-30 19:01:10.023 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html  
+2019-08-30 19:01:10.148 +08:00 [INF] Request finished in 125.2355ms 200 text/html
+2019-08-30 19:01:10.183 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css  
+2019-08-30 19:01:10.195 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+2019-08-30 19:01:10.227 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+2019-08-30 19:01:10.290 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2019-08-30 19:01:10.290 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2019-08-30 19:01:10.300 +08:00 [INF] Request finished in 117.3057ms 200 text/css
+2019-08-30 19:01:10.300 +08:00 [INF] Request finished in 104.9176ms 200 application/javascript
+2019-08-30 19:01:10.316 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2019-08-30 19:01:10.316 +08:00 [INF] Request finished in 89.1121ms 200 application/javascript
+2019-08-30 19:01:10.609 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json  
+2019-08-30 19:01:10.817 +08:00 [INF] Request finished in 208.399ms 200 application/json;charset=utf-8
+2019-08-30 19:01:17.208 +08:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/v1/_posts  
+2019-08-30 19:01:17.217 +08:00 [INF] Executing endpoint 'TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate)'
+2019-08-30 19:01:17.245 +08:00 [INF] Route matched with {action = "GetAll", controller = "Posts", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller TropicalTrooperTemplate.Controllers.V1.PostsController (TropicalTrooperTemplate).
+2019-08-30 19:01:17.260 +08:00 [INF] Executing action method TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate) - Validation state: "Valid"
+2019-08-30 19:01:17.267 +08:00 [INF] Executed action method TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.3618ms.
+2019-08-30 19:01:17.279 +08:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[TropicalTrooperTemplate.Domain.Post, TropicalTrooperTemplate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2019-08-30 19:01:17.290 +08:00 [INF] Executed action TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate) in 41.1572ms
+2019-08-30 19:01:17.290 +08:00 [INF] Executed endpoint 'TropicalTrooperTemplate.Controllers.V1.PostsController.GetAll (TropicalTrooperTemplate)'
+2019-08-30 19:01:17.290 +08:00 [INF] Request finished in 81.8731ms 200 application/json; charset=utf-8

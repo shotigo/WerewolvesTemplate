@@ -16,6 +16,7 @@ using Microsoft.Extensions.DependencyInjection;
 using TropicalTrooperTemplate.Options;
 using Swashbuckle.AspNetCore.Swagger;
 using SwaggerOptions = TropicalTrooperTemplate.Options.SwaggerOptions;
+using TropicalTrooperTemplate.Installers;
 
 namespace TropicalTrooperTemplate
 {
@@ -31,19 +32,7 @@ namespace TropicalTrooperTemplate
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<Data.DbContext>(options =>
-                options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
-
-            services.AddDefaultIdentity<IdentityUser>()
-                .AddEntityFrameworkStores<Data.DbContext>();
-
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new Info { Title = "TropicalTrooper API", Version = "v1" });
-            });
+            services.InstallServicesInAssembly(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

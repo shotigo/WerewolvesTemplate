@@ -20,7 +20,7 @@ namespace TropicalTrooperTemplate.Controllers.V1
             _diagnosticContext = diagnosticContext ?? throw new ArgumentNullException(nameof(diagnosticContext));
         }
 
-        [HttpGet(ApiRoutes.Posts.Get)]
+        [HttpGet(ApiRoutes.Posts.AuditLog)]
         public IActionResult Get()
         {
 
