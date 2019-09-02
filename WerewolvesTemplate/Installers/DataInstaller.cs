@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
 using Microsoft.Extensions.Configuration;
 using Microsoft.AspNetCore.Identity;
+using TropicalTrooperTemplate.Services;
 
 namespace TropicalTrooperTemplate.Installers
 {
@@ -18,6 +19,8 @@ namespace TropicalTrooperTemplate.Installers
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<Data.DbContext>();
+
+            services.AddSingleton<IPostService, PostService>();
         }
     }
 }
